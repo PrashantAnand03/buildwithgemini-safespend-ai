@@ -1,0 +1,18 @@
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment Variables & Deployment Secrets
+.env
+deployment_metadata.json
+
+# Node & Recording Temp Files
+.adk/
+node_modules/
+package-lock.json
+recordings/
+lofi_track.wav
+*.log
